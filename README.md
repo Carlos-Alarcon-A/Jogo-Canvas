@@ -31,4 +31,4 @@ src img img/>![Jogo Canvas 1 jpg](https://github.com/Carlos-Alarcon-A/Jogo-Canva
 
 ![Jogo Canvas jpg](https://github.com/Carlos-Alarcon-A/Jogo-Canvas/assets/128370700/f9b0b934-17a8-499d-b2c9-8787c40691d0)
 
-#Teclas para jogar
+#
