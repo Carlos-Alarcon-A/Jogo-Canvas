@@ -1,4 +1,4 @@
-## Jogo Canvas: Garota De Ipanema 
+## Jogo Canvas: Garota De Ipanema (CArlos e Arthur)
 
 Este é uma orientação e passo a passo do nosso jogo do canvas inspirado na Garota de Ipanema 
 
